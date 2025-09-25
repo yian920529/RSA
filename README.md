@@ -8,13 +8,15 @@
 1102966 邱翊銨  
 1103478 林虹佑  
 ### RSA-OAEP 跟 RSA-PSS 先簽名再加密 
-#### 實作流程
-![image](https://github.com/user-attachments/assets/19ef0d1b-b3ee-4766-8ba8-0df3cdc677ef)
-#### 實作結果圖
-![image](https://github.com/user-attachments/assets/b37fa48e-75fd-4e21-b966-7d48f1792015)
+#### 流程:
+<img width="585" height="506" alt="image" src="https://github.com/user-attachments/assets/8105b64c-a2e6-4674-ae76-02f9955c4f49" />
+#### 結果:
+<img width="805" height="636" alt="image" src="https://github.com/user-attachments/assets/97ab2aaa-0122-4600-b978-64dcda74ab68" />
+
 
 ### RSA-OAEP 跟 RSA-PSS 先加密再簽名
-#### 實作流程
-![image](https://github.com/user-attachments/assets/688c21a1-e586-4de2-8c7f-606fc025722f)
-#### 實作結果圖
-![image](https://github.com/user-attachments/assets/7a2dedd2-42cf-4205-8ffa-9b547f75879e)
+#### 流程:
+<img width="643" height="504" alt="image" src="https://github.com/user-attachments/assets/c513c282-c26d-4089-8498-2b93406195d3" />
+
+#### 結果:
+<img width="792" height="678" alt="image" src="https://github.com/user-attachments/assets/f39ea9e4-4d9f-4db3-9578-2bf096d52534" />
