@@ -1,3 +1,4 @@
+詳細報告參考上方pdf
 # RSA
 
 主題：RSA-OAEP RSA-PSS 加密簽名先後順序
